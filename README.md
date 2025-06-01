@@ -1,2 +1,2 @@
 # note-software
-學習Flutter時做的便簽軟體。
+Using Material 3 Expressive to rebuild this software.
